@@ -1,0 +1,28 @@
+{
+  "skins": [
+    {
+      "id": "dark-minimal",
+      "name": "Dark Minimal",
+      "description": "Clean dark theme for productivity",
+      "category": "dark",
+      "tags": ["minimal", "dark", "productivity"],
+      "preview": "assets/dark-minimal-preview.png",
+      "downloadUrl": "skins/dark-minimal.zip",
+      "author": "enderflyu",
+      "version": "1.0.0",
+      "lastUpdated": "2025-08-27"
+    },
+    {
+      "id": "colorful-vibrant",
+      "name": "Colorful Vibrant",
+      "description": "Bright and energetic design",
+      "category": "light",
+      "tags": ["colorful", "vibrant", "creative"],
+      "preview": "assets/colorful-vibrant-preview.png",
+      "downloadUrl": "skins/colorful-vibrant.zip",
+      "author": "kurojs",
+      "version": "1.0.0",
+      "lastUpdated": "2025-08-27"
+    }
+  ]
+}a
